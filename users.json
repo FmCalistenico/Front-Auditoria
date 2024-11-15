@@ -1,0 +1,47 @@
+[
+  {
+    "username": "a",
+    "password": "123",
+    "role": "user"
+  },
+  {
+    "username": "b",
+    "password": "12345",
+    "role": "user"
+  },
+  {
+    "username": "edi",
+    "password": "123",
+    "role": "user"
+  },
+  {
+    "username": "gio ",
+    "password": "123",
+    "role": "user"
+  },
+  {
+    "username": "mesa",
+    "password": "gpt",
+    "role": "user"
+  },
+  {
+    "username": "kevin",
+    "password": "cumpleañero",
+    "role": "user"
+  },
+  {
+    "username": "sebas",
+    "password": "123",
+    "role": "user"
+  },
+  {
+    "username": "gabbo",
+    "password": "12345",
+    "role": "user"
+  },
+  {
+    "username": "marco1234",
+    "password": "1234",
+    "role": "user"
+  }
+]
